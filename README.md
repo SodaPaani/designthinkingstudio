@@ -5,7 +5,7 @@ A collection of frameworks and thinking models for learning design and systems t
 ## 📚 Frameworks
 
 ### 🧠 Understanding Users
-- [Empathy Map](./first-framework.md)
+- [Empathy Map](./empathy-map.md)
 
 ### ⚖️ Decision Making
 - [SWOT Analysis](./swot-analysis.md)
