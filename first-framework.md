@@ -1,4 +1,5 @@
 # Empathy Map
+A simple tool I use to understand users better before designing solutions. This is my interpretation and how I apply it in learning design.
 
 ## What this is
 Empathy maps are a really useful template that guides you in getting to know the end user you are designing for - their pain points and what their challenges are based on your observations in their environment, so you can take it into consideration when designing
