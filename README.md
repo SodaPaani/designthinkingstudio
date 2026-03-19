@@ -1,10 +1,12 @@
-# designthinkingstudio
-A collection of frameworks and thinking models for learning design and systems thinking
+# Design Thinking Studio
+
+I design learning experiences and systems. This is a collection of frameworks I use to think, challenge assumptions, and build better solutions.
+
 ---
 
 ## 📚 Frameworks
 
-### 🧠 Understanding Users
+### 🧠 Understanding People
 - [Empathy Map](./empathy-map.md)
 
 ### ⚖️ Decision Making
@@ -12,12 +14,17 @@ A collection of frameworks and thinking models for learning design and systems t
 
 ---
 
-## 🧭 How to use this
+## 🧭 My approach
 
-Each framework includes:
-- What it is  
-- When I use it  
-- How it works  
-- My perspective  
+I don’t use frameworks as templates.  
+I use them to:
+- clarify problems before jumping to solutions  
+- challenge assumptions  
+- create space for better thinking  
 
-This is a living collection that evolves with my practice.
+---
+
+## 🔄 This is a living system
+
+Each framework evolves as I apply it in real-world contexts.  
+What you see here is not static... it reflects how my thinking develops over time.
