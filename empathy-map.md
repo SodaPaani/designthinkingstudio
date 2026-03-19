@@ -1,3 +1,8 @@
+
+**Category:** Understanding Users  
+**Use case:** Early-stage problem framing  
+
+
 # Empathy Map
 A simple tool I use to understand users better before designing solutions. This is my interpretation and how I apply it in learning design.
 
