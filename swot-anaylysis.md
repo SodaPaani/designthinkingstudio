@@ -1,3 +1,7 @@
+**Category:** Understanding Users  
+**Use case:** Evaluating options and understanding strategic context 
+
+
 # SWOT Analysis
 
 A simple tool I use to evaluate a situation by looking at internal strengths and weaknesses, and external opportunities and threats.
